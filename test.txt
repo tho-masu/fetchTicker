@@ -1,0 +1,1445 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<link href="/favicon.ico" rel="shortcut icon" type="image/png"/>
+<link href="/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<meta content="#ffffff" name="msapplication-TileColor"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="/ms-icon-144x144.png" name="msapplication-TileImage"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<meta content="authenticity_token" name="csrf-param">
+<meta content="RCENw1vBPP5Nk5s/n0dH3LhZC6UoyFXk0h1ZZYO3sp/GD6zaPbdWqIAPA+PfnMC1tuU9qYmfn9gHSMKtmOR3hA==" name="csrf-token">
+<meta action="show" controller="stock" name="psj">
+<title>日立製作所 (6501) の株価・株式｜QUICK Money World - 株式投資・マーケット・金融情報の総合サイト</title>
+<meta content="日立製作所 (6501) の株価やニュース、優待など、投資に必要な情報を閲覧できます。成長性や割安度などが一目で確認できる「QUICKスコア」は、Money Worldだけのオリジナルデータです。" name="description"/>
+<meta content="quick money world,クイック,マネーワールド,日経平均,株価,株式,金融,投資,マーケット,金融,ニュース" name="keywords"/>
+<meta content="index, follow" name="robots"/>
+<link href="https://moneyworld.jp/stock/6501" rel="canonical"/>
+<meta content="https://moneyworld.jp/stock/6501" property="og:url"/>
+<meta content="https://moneyworld.jp/images/moneyworld_ogpsd.png" property="og:image"/>
+<meta content="日立製作所 (6501) の株価・株式｜QUICK Money World - 株式投資・マーケット・金融情報の総合サイト" property="og:title"/>
+<meta content="日立製作所 (6501) の株価やニュース、優待など、投資に必要な情報を閲覧できます。成長性や割安度などが一目で確認できる「QUICKスコア」は、Money Worldだけのオリジナルデータです。" property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="QUICK Money World" property="og:site_name"/>
+<meta content="日立製作所 (6501) の株価・株式｜QUICK Money World - 株式投資・マーケット・金融情報の総合サイト" name="twitter:title"/>
+<meta content="日立製作所 (6501) の株価やニュース、優待など、投資に必要な情報を閲覧できます。成長性や割安度などが一目で確認できる「QUICKスコア」は、Money Worldだけのオリジナルデータです。" name="twitter:description"/>
+<meta content="https://moneyworld.jp/images/moneyworld_ogpsd.png" name="twitter:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@QUICK_QMW" name="twitter:site"/>
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,500,700,900&amp;display=swap&amp;subset=japanese" rel="stylesheet"/>
+<link data-turbolinks-track="reload" href="/assets/application-b724f23fbe77c7a2fc3880598e23e50aa4588a6c43a7dfaabfe3407a353103f2.css" media="all" rel="stylesheet">
+<script data-turbolinks-track="reload" src="/assets/jquery-00c12148b415d9fe869afbca8143f241e9fda59b3ae6dc5be582b91c6d2a4494.js"></script>
+<script data-turbolinks-track="reload" src="/assets/echarts/echarts.min-3cb7cd457b4e642167c80fd7445a410d69bdc7831dff4b15f746c2dd532374b5.js"></script>
+<script data-turbolinks-track="reload" src="/assets/vendor-8d5ca8ef8c7996e4ee909207175e0424d50824c4146f6b407f05cb38309c0adf.js"></script>
+<script data-turbolinks-track="reload" src="/assets/application-c0acb1434e8f8403dc7b326f8eec65e99c36ec0071211e879799c9e24b2c451b.js"></script>
+<script data-turbolinks-track="reload" src="/assets/stock-c4463a99ae968367cd17dc998dd9d9fbd29d458ac07c4e37c219080046f2a1df.js"></script>
+<script data-turbolinks-track="reload" src="/assets/mypage_favorite-9580367b951c6de26e615723effa790d236678f2628ea4f6b47a940d2e010167.js"></script>
+<script data-turbolinks-track="reload" src="/assets/mypage-11985527f95ac8b9c8af2b5359ea56399e14d5f180f9855e4d41c87025809898.js"></script>
+<!-- Google Analytics -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  dataLayer.push({
+      'userId' : ""
+  });
+</script>
+<!-- End Google Analytics -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NZK5M5L');</script>
+<!-- End Google Tag Manager -->
+</link></meta></meta></meta></head>
+<body class="drawer drawer--right stock-page" id="stock-page">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NZK5M5L" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script type="application/ld+json">
+  [
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "QUICK Money World",
+      "url": "https://moneyworld.jp"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement":
+      [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item":
+            {
+              "@id": "https://moneyworld.jp/",
+              "name": "ホーム"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item":
+            {
+              "@id": "https://moneyworld.jp/stock",
+              "name": "株価検索（銘柄名・業種別・テーマ別）"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item":
+            {
+              "@id": "https://moneyworld.jp/stock/6501",
+              "name": "日立製作所（6501）の株価・株式"
+            }
+          }
+      ]
+    }
+  ]
+</script>
+<div class="mw-locked-sketch">
+<button class="drawer-hamburger suggest-tooltip" type="button">
+<span class="sr-only">toggle navigation</span>
+<span class="drawer-hamburger-icon"></span>
+</button>
+<header class="p-header">
+<div class="p-header_inner">
+<h1>
+<strong>
+<a class="p-money-world" href="/">
+<img alt="QUICK Money World（マネーワールド) " src="/assets/logo-mw-8c5653d807f4f862fd11913696e343ecdfbd3f1aeb1205f199731f85aeb71cbf.svg" title="QUICK Money World（マネーワールド) "/>
+</a>
+</strong>
+</h1>
+<p class="p-header_lead">個人投資の未来を共創する<br/>QUICKの金融情報プラットフォーム</p>
+<div class="p-header_tools">
+<div class="p-header_search">
+<form accept-charset="UTF-8" action="/stock/stock-list" method="get">
+<label class="p-header_searchbox">
+<div class="p-header_searchbox_inputs">
+<input autocomplete="off" class="p-header_searchbox_input" maxlength="255" name="keyword" placeholder="銘柄名・銘柄コード・キーワードを入力" type="search"/>
+<button class="p-header_searchbox_button" type="submit">
+</button>
+</div>
+</label>
+</form> </div>
+<div class="p-header_btns">
+<a class="c-button c-button_signup" href="/signup/guide">無料会員登録</a>
+<form action="/auth/auth0?prompt=login" class="c-button c-button_login" method="post"><input type="submit" value="ログイン"><input name="authenticity_token" type="hidden" value="oOu0rNC4mHqPrccCeDhGdgcgC9L05uZtaIF+cOD9dwdz2hfOBdcG1kc65SJoBtRTsIkC9iJGhd1Jmfi1bXYW3Q=="/></input></form>
+</div>
+</div>
+</div>
+</header>
+<div class="drawer-nav p-global-menu" id="s-menu_global" role="navigation">
+<div class="p-global-menu_categories drawer-menu">
+<div class="nav-top-bar">
+<div class="nav-text">
+        個人投資の未来を共創する <br/>
+        QUICKの金融情報プラットフォーム
+      </div>
+<div class="nav-search">
+<div class="p-header_tools">
+<div class="p-header_search">
+<form accept-charset="UTF-8" action="/stock/stock-list" method="get">
+<label class="p-header_searchbox">
+<div class="p-header_searchbox_inputs">
+<input autocomplete="off" class="p-header_searchbox_input" maxlength="255" name="keyword" placeholder="銘柄名・銘柄コード・キーワードを入力" type="search"/>
+<button class="p-header_searchbox_button" type="submit">
+</button>
+</div>
+</label>
+</form> </div>
+</div>
+</div>
+</div>
+<div class="drawer-body" id="drawer_can_scroll">
+<div class="nav-user">
+<a class="nav-user-link register-link" href="/signup/guide">無料会員登録</a>
+<form action="/auth/auth0?prompt=login" class="nav-user-link login-link" method="post"><input type="submit" value="ログイン"><input name="authenticity_token" type="hidden" value="70cnsXIquVHmbTyla+y9WTQT2+n6Om0uvfcCvpi8UNE8doTTp0Un/S76HoV70i98g7rSzSyaDp6c74R7FTcxCw=="/></input></form>
+</div>
+<div class="drawer-container">
+<div class="p-global-menu_category p-haschild drawer-dropdown">
+<a class="p-global-menu_category_head is_current" href="/stock">
+            個別株式・株価
+            <i class="mn-sp-only icon-dropdown"></i>
+</a>
+<div class="p-global-menu_category_body drawer-dropdown-menu">
+<div class="p-global-menu_category_child">
+<div class="p-global-menu_child">
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/stock">企業株価検索</a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<div class="t-group-menu">
+<ul>
+<li><a href="/stock">銘柄名・銘柄コードから探す</a></li>
+<li><a href="/stock?tab=stock_industry">業種から探す</a></li>
+<li><a class="sp-bottom-dash" href="/stock?tab=stock_market">市場から探す</a></li>
+</ul>
+<ul>
+<li><a href="/stock/search_theme">テーマから探す</a></li>
+<li>
+<a class="mn-sp-only" href="/search_score_sp">QUICKスコアから探す</a>
+<a class="mn-sp-only__hide" href="/stock">QUICKスコアから探す</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/stock/ranking?type=attract-stock&amp;market=all&amp;industry=all">株式ランキング</a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<ul>
+<li><a href="/stock/ranking?type=attract-stock&amp;market=all&amp;industry=all">注目株ランキング</a></li>
+<li><a href="/stock/ranking?type=price-rise&amp;market=all&amp;industry=all">値上率ランキング</a></li>
+<li><a href="/stock/ranking?type=price-drop&amp;market=all&amp;industry=all">値下がり率ランキング</a></li>
+<li><a href="/stock/ranking?type=trading-value&amp;market=all&amp;industry=all">売買代金ランキング</a></li>
+<li><a href="/stock/ranking?type=capitalization&amp;market=all&amp;industry=all">時価総額ランキング</a></li>
+</ul>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category no-arrow">分析ツール <i class="mn-sp-only chevron-icon-up"></i></div>
+<div class="t-group-menu">
+<ul>
+<li><a href="/tools/search_by_score">スコア株サーチ</a></li>
+<li><a href="/tools/search_by_consensus">コンセンサス株サーチ</a></li>
+<li><a href="/tools/market_calendar">マーケットカレンダー</a></li>
+<li><a href="/tools/industry_share_map">簡単業種分析</a></li>
+<li><a href="/tools/trend_word">トレンドワード</a></li>
+<li><a class="sp-bottom-dash" href="/tools/corporate_alert">コーポレートアラート</a></li>
+</ul>
+<ul>
+<li><a href="/tools/news_ranking">マーケットニュースランキング</a></li>
+<li><a href="/tools/financial_result_surprise">決算サプライズメーター</a></li>
+<li><a href="/tools/usd_position_statistics">ドル円ポジション</a></li>
+<li><a href="/tools/financial_terms">金融用語集</a></li>
+<li><a href="/tools/disclosure_ai">QUICK AI速報（企業開示速報）</a></li>
+<li><a href="/tools/asia_index_300">日経アジア 300 指数特設ページ</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="p-global-menu_category p-haschild drawer-dropdown">
+<a class="p-global-menu_category_head" href="/disclosure">企業開示情報<i class="mn-sp-only icon-dropdown"></i></a>
+<div class="p-global-menu_category_body drawer-dropdown-menu">
+<div class="p-global-menu_category_child">
+<div class="p-global-menu_child">
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/disclosure">開示情報TOP</a>
+</div>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/disclosure/search">開示情報検索</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="p-global-menu_category p-haschild p-market-menu drawer-dropdown">
+<a class="p-global-menu_category_head" href="/market">マーケット情報 <i class="mn-sp-only icon-dropdown"></i></a>
+<div class="p-global-menu_category_body drawer-dropdown-menu">
+<div class="p-global-menu_category_child">
+<div class="p-global-menu_child">
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/market">国内株式マーケット</a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<ul>
+<li><a href="/market/101.IND_NIKKEI">日経平均株価</a></li>
+<li><a href="/market/151.INDXJPX">TOPIX</a></li>
+<li><a href="/market/191.IND_NIKKEI">日経ジャスダック平均株価</a></li>
+<li><a href="/market/154.INDXJPX">東証マザーズ指数</a></li>
+<li><a href="/market/152.INDXJPX">東証二部指数</a></li>
+<li><a href="/market/155.INDXJPX">東証REIT指数</a></li>
+<li><a href="/market/101.555%2FO">日経平均先物(大証)</a></li>
+<li><a href="/market/101.555%2FCMEE">日経平均先物(CME)</a></li>
+</ul>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/market#overseas-market-id">海外株式マーケット</a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<div class="t-group-menu">
+<ul>
+<li><a href="/market/@@CCO%2FU">ナスダック総合</a></li>
+<li><a href="/market/@@SSE%2FHD">上海総合指数</a></li>
+<li><a href="/market/@@DAX%2FDEI">ドイツ株価指数</a></li>
+<li><a href="/market/SFT100%2FLDN">英FTSE100</a></li>
+<li><a href="/market/@@HSI%2FHK">香港ハンセン指数 </a></li>
+</ul>
+</div>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/market#forex-and-commodities-market">為替・金利</a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<div class="t-group-menu">
+<ul>
+<li><a href="/market/XJPY%2F8_D">米ドル/円</a></li>
+<li><a href="/market/XEURJPY%2F8_D">ユーロ/円</a></li>
+<li><a href="/market/XGBPJPY%2F008_D">ポンド/円</a></li>
+<li><a href="/market/XEUR%2F8_D">ユーロ/ドル</a></li>
+<li><a href="/market/XAUDJPY%2F008_D">豪ドル/円</a></li>
+<li><a href="/market/XNZDJPY%2F008_D">ニュージーランドドル/円</a></li>
+<li><a href="/market/XCADJPY%2F008_D">カナダドル/円</a></li>
+<li><a href="/market/XCHFJPY%2F008_D">スイスフラン/円</a></li>
+<li><a href="/market/XCNYJPY%2F008_D">中国人民元/円</a></li>
+<li><a class="sp-bottom-dash" href="/market/BUSG.10Y%2FNYC">米国債10年</a></li>
+<li><a class="sp-bottom-dash" href="/market?other_forex=true#forex-and-commodities-market">その他為替</a></li>
+</ul>
+</div>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/market#real-commodities-market">コモディティ</a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<div class="t-group-menu">
+<ul>
+<li><a href="/market/SWTI%2FUSE">WTI原油先物</a></li>
+<li><a href="/market/SGLD%2FCMX">金先物</a></li>
+<li><a href="/market/FSLV.1%2FCMX">銀先物</a></li>
+<li><a href="/market/FCPR.1%2FCMX">銅先物</a></li>
+<li><a href="/market/FPAL.1%2FNYMX">パラジウム先物</a></li>
+<li><a href="/market/SCRB%2FUSE">CRB指数</a></li>
+</ul>
+</div>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/market#cryptocurrency_market">暗号資産（仮想通貨）</a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<div class="t-group-menu">
+<ul>
+<li><a href="/market/btcjpy">ビットコイン/円</a></li>
+<li><a href="/market/ethjpy">イーサリアム/円</a></li>
+<li><a href="/market/xrpjpy">リップル/円</a></li>
+<li><a class="sp-bottom-dash" href="/market/bchjpy">ビットコインキャッシュ/円</a></li>
+<li><a href="/market/btcusd">ビットコイン/ドル</a></li>
+<li><a href="/market/ethusd">イーサリアム/ドル</a></li>
+<li><a href="/market/xrpusd">リップル/ドル</a></li>
+<li><a href="/market/bchusd">ビットコインキャッシュ/ドル</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="p-global-menu_category p-haschild p-news-menu drawer-dropdown">
+<a class="p-global-menu_category_head" href="/news">記事・ニュース<i class="mn-sp-only icon-dropdown"></i></a>
+<div class="p-global-menu_category_body drawer-dropdown-menu">
+<div class="p-global-menu_category_child">
+<div class="p-global-menu_child">
+<div class="v-group-menu">
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/news">記事・ニュース検索</a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<ul>
+<li><a href="/news">キーワードから探す</a></li>
+<li><a href="/news">カテゴリから探す</a></li>
+<li><a href="/news?tab_filter=series">連載・シリーズから探す</a></li>
+</ul>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category"><a href="/news/ranking">人気記事ランキング </a> <i class="mn-sp-only chevron-icon-up"></i></div>
+<ul>
+<li><a href="/news/ranking?category=210200">株式マーケット 記事ランキング</a></li>
+<li><a href="/news/ranking?category=210300">為替・金利 記事ランキング</a></li>
+<li><a href="/news/ranking?category=210400">経済・ビジネス 記事ランキング</a></li>
+<li><a href="/news/ranking?category=210501">資産運用・資産形成 記事ランキング</a></li>
+</ul>
+</div>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/news/list?category=210200">株式マーケット  </a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<div class="t-group-menu">
+<ul>
+<li><a href="/news/list?category=210202">国内株式市場サマリー</a></li>
+<li><a href="/news/list?category=210203">注目銘柄</a></li>
+<li><a href="/news/list?category=210204%2C210205">企業決算・業績ウォッチ</a></li>
+<li><a href="/news/list?category=210206">株式新規公開</a></li>
+<li><a href="/news/list?category=210207">合併・買収</a></li>
+<li><a href="/news/list?category=210208">株主優待</a></li>
+<li><a href="/news/list?category=210209">テクニカル分析</a></li>
+<li><a class="sp-bottom-dash" href="/news/list?category=210100">調査・サーベイ</a></li>
+</ul>
+<ul>
+<li><a href="/news/list?category=210101">行事予定</a></li>
+<li><a href="/news/list?category=210103">中国・韓国・アジア</a></li>
+<li><a href="/news/list?category=210104">米国・欧州</a></li>
+<li><a href="/news/list?category=210105">その他地域</a></li>
+</ul>
+</div>
+</div>
+<div class="v-group-menu">
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/news/list?category=210300"> 為替・金利 </a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<div class="t-group-menu">
+<ul class="menu-fix-y">
+<li><a href="/news/list?category=210302">為替</a></li>
+<li><a class="sp-bottom-dash" href="/news/list?category=210303">金利</a></li>
+</ul>
+<ul>
+<li><a href="/news/list?category=210304">仮想通貨</a></li>
+</ul>
+</div>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/news/list?category=210400">経済・ビジネス </a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<div class="t-group-menu">
+<ul class="menu-fix-x">
+<li><a class="sp-bottom-dash" href="/news/list?category=210401">フィンテック</a></li>
+</ul>
+<ul>
+<li><a href="/news/list?category=210402">コラム・インタビュー</a></li>
+</ul>
+</div>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/news/list?category=210501"> 資産運用・資産形成 </a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<div class="t-group-menu">
+<ul class="menu-fix-w">
+<li><a href="/news/list?category=210502">投資信託</a></li>
+<li><a class="sp-bottom-dash" href="/news/list?category=210503">ＩＦＡ・ＦＰ・ＰＢ</a></li>
+</ul>
+<ul>
+<li><a href="/news/list?category=210504">データで読む</a></li>
+<li><a href="/news/list?category=210505">トレンドを知る</a></li>
+<li><a href="/news/list?category=210506">資産を殖やす</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="v-group-menu">
+<div class="p-global-menu_child_item">
+<div class="p-menu-category">
+<a href="/news/list?category=210602">資産運用研究所</a>
+</div>
+</div>
+<div class="p-global-menu_child_item">
+<div class="p-menu-category">
+<a href="/news/list?category=210601">企業価値研究所</a>
+</div>
+</div>
+<div class="p-global-menu_child_item">
+<div class="p-menu-category">
+<a href="/news/list?series=210013">QUICK Market Eyes</a>
+</div>
+</div>
+<div class="p-global-menu_child_item">
+<div class="p-menu-category">
+<a href="/news/list?series=210006">QUICK月次調査</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="p-global-menu_category p-haschild drawer-dropdown">
+<a class="p-global-menu_category_head" href="/timeline">クリップ一覧<i class="mn-sp-only icon-dropdown"></i></a>
+</div>
+<div class="p-global-menu_category p-haschild drawer-dropdown">
+<a class="p-global-menu_category_head" href="/yutai">株主優待<i class="mn-sp-only icon-dropdown"></i></a>
+<div class="p-global-menu_category_body drawer-dropdown-menu">
+<div class="p-global-menu_category_child">
+<div class="p-global-menu_child">
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/yutai">株主優待TOP</a>
+</div>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/yutai/search">株主優待検索</a>
+</div>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/yutai/list">株主優待一覧</a>
+</div>
+</div>
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/yutai/yutai_ranking">人気優待ランキング</a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<div class="t-group-menu">
+<ul>
+<li><a href="/yutai/haito_ranking">配当利回りランキング</a></li>
+<li><a href="/yutai/yutai_ranking">優待利回りランキング</a></li>
+<li><a href="/yutai/yutai_haito_ranking">優待&amp;配当利回りランキング</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="p-global-menu_category p-haschild drawer-dropdown">
+<a class="p-global-menu_category_head" href="/us-stock">
+            米国株式・株価
+            <i class="mn-sp-only icon-dropdown"></i>
+</a>
+<div class="p-global-menu_category_body drawer-dropdown-menu">
+<div class="p-global-menu_category_child">
+<div class="p-global-menu_child">
+<div class="p-global-menu_child_item under-control">
+<div class="p-menu-category">
+<a href="/us-stock">基本検索</a>
+<i class="mn-sp-only chevron-icon-up"></i>
+</div>
+<div class="t-group-menu">
+<ul>
+<li><a href="/us-stock">キーワード・銘柄名・銘柄コードから探す</a></li>
+<li><a href="/us-stock">業種から探す</a></li>
+<li><a class="sp-bottom-dash" href="/us-stock?tab=us_stock_market">市場から探す</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="p-breadcrumbs">
+<div class="p-breadcrumb">
+<span><a href="/">ホーム</a></span>
+<span><a href="/stock">個別株式・株価検索</a></span>
+<span class="is_current" id="last-bc">日立製作所（6501）の株価</span>
+</div>
+</div>
+<input id="mw-render-mode" type="hidden" value="browser"/>
+<div class="l-contents stock-action-show">
+<div class="l-contents_head">
+<section class="p-stock_header">
+<div class="p-stock_header_head">
+<div class="left">
+<div class="p-stock_meta">
+<div class="p-stock_meta_head">
+<div class="p-stock_code">6501</div>
+<div class="p-stock_market">東証1部</div>
+<a class="p-stock_type" href="/stock/stock-list?industry=%E9%9B%BB%E6%B0%97%E6%A9%9F%E5%99%A8">
+          電気機器
+        </a>
+</div>
+</div>
+<div class="p-stock_infoname">
+<div class="p-stock_company">日立製作所</div>
+</div>
+<div class="p-stock_meta_body">
+<div class="p-stock_lastupdate">最終更新 2021/7/13 15:00 ※20分遅れで更新</div>
+</div>
+<div class="p-stock_values">
+<div class="p-stock_value">6,826<span class="unit ml5">円</span></div>
+<div class="p-stock_balance is_plus">
+<strong>
+<span class="is_plus">+97<span class="unit">円</span></span>
+</strong>
+<span class="percentage is_plus">(+1.442%)</span>
+</div>
+</div>
+<div class="p-stock_industry-company">
+      【総合電機首位】技術力に定評。事業入れ替えで構造改革推進。
+    </div>
+</div>
+<div class="right">
+<div class="p-stock_tool">
+<button class="btn stock-favorite-btn--new" onclick="openRegisterModal();">
+<i class="icon icon-star icon-22"></i>  
+          お気に入り追加
+        </button>
+<div class="socials-share">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://moneyworld.jp/stock/6501" target="_blank">
+<img src="/assets/facebook-logo-c908db1a885ba74693bb65e16f7576ea4faaa065a1531e26c6b213ec0218be79.png"/>
+</a>
+<a href="https://twitter.com/share?text=&amp;url=https://moneyworld.jp/stock/6501" target="_blank">
+<img src="/assets/twitter-logo-70d6d45c8a8a6578981a8ff7af79532fd83ac2f71552a4f599b220d53b74e0cc.png"/>
+</a>
+</div>
+</div>
+<div class="p-stock_labels">
+<ul>
+<li>
+<a href="/stock/ranking?type=trading-value"><span class="icon-crown"></span>売買代金 9位</a>
+</li>
+</ul>
+</div>
+<div class="p-stock_rating float-right">
+<div class="p-stock_rate">
+<div class="p-stock_rate_title">QUICKレーティング  
+          <button data-template="150e3391-ddcd-4ec0-b516-498b23d66120" data-tippy-150e3391-ddcd-4ec0-b516-498b23d66120="" data-tippy-arrow="true" data-tippy-maxwidth="100%" data-tippy-theme="light-border">
+<i class="icon-q"></i>
+</button>
+<div id="150e3391-ddcd-4ec0-b516-498b23d66120" style="display:none">
+<p class="t-title"><strong>QUICKレーティング</strong></p>
+<p>
+<br>QUICKレーティングは、証券会社や調査機関のアナリストなどが付与した投資判断の平均値です。「買い」や「売り」といった投資判断をマイナス２からプラス２までの数値に変換し、平均を集計しています。プラスが大きいほど、アナリストなどが強気にみているということを意味します。<br><br/>
+    五つ星はプラス２、星ゼロはマイナス２を意味しています。五つ星の下にある矢印は、直近１カ月以内に星の増減があったがどうかを示しています。<br/><br/>
+    アナリストは業績成長を予想しているからといって、必ずしも「買い」の投資判断（レーティング）をつけるわけではありません。業績の成長が見込めたとしても、すでに株価がその成長を織り込み、割高な水準まで上昇していれば「売り」をつけるでしょう。一方、業績が低迷していても、その低迷を織り込んで割安と思える水準まで株価が下がれば、逆に「買い」の判断を掲げることもあります。<br/><br/>
+    調査担当のアナリストがいない場合は算出対象ではありません。算出には直近６カ月以内のデータを採用しています。
+  </br></br></p>
+</div>
+<script>
+  tippy('[data-tippy-150e3391-ddcd-4ec0-b516-498b23d66120]', {
+    boundary: 'window',
+    content: function(reference) {
+      var id = reference.getAttribute('data-template');
+      return $('#' + id).html();
+    },
+    interactive: true,
+    delay: 100,
+    onHide: function onHide(i) {
+      if ($('.tippy-active[data-tippy-150e3391-ddcd-4ec0-b516-498b23d66120]:hover').length) {
+        return false;
+      };
+    }
+  })
+</script>
+</div>
+<div class="stock-star">
+<i class="icon-big-star-full"></i>
+<i class="icon-big-star-full"></i>
+<i class="icon-big-star-full"></i>
+<i class="icon-big-star-full"></i>
+<i class="icon-big-star-half"></i>
+</div>
+<span class="rating__num">+1.57</span>
+</div>
+<div class="p-stock_consensus">
+<div class="p-stock_consensus_title">QUICKコンセンサス  
+          <button data-template="793401b3-7e88-417c-883e-a5ce9f1f00db" data-tippy-793401b3-7e88-417c-883e-a5ce9f1f00db="" data-tippy-arrow="true" data-tippy-maxwidth="100%" data-tippy-theme="light-border">
+<i class="icon-q"></i>
+</button>
+<div id="793401b3-7e88-417c-883e-a5ce9f1f00db" style="display:none">
+<p class="t-title"><strong>QUICKコンセンサス</strong></p>
+<p>
+<br/>QUICKコンセンサスは、証券会社や調査機関のアナリストなどによる上場企業の業績予想の平均値（コンセンサス）です。QUICKが独自に算出しています。QUICKレーティングは、証券会社や調査機関のアナリストなどが付与した投資判断の平均値です。「買い」や「売り」といった投資判断をマイナス２からプラス２までの数値に変換し、平均を集計しています。プラスが大きいほど、アナリストなどが強気にみているということを意味します。<br/><br/>
+    調査担当のアナリストがいない場合は、コンセンサスは算出対象ではありません。企業が業績予想を修正した際、新たなアナリスト予想が収録されるまでは、参考値として業績予想修正前の値が表示されます。日本経済新聞の記者や会社側の予想値ではありません。<br/><br/>
+    なお、コンセンサス予想の算出には直近６カ月以内のデータを採用しています。QUICKコンセンサスと会社側の会計基準は必ずしも一致しない場合があります。また、決算期変更などのケースを含めて更新タイミングがずれる可能性があります。<br/><br/>
+<b>※コンセンサスの増減率について</b><br/>
+<b>会計基準等変更のあった銘柄の一部は、変更前の基準による市場予想と比較している場合があります。</b>
+</p>
+</div>
+<script>
+tippy('[data-tippy-793401b3-7e88-417c-883e-a5ce9f1f00db]', {
+    boundary: 'window',
+    content: function(reference) {
+      var id = reference.getAttribute('data-template');
+      return $('#' + id).html();
+     },
+    interactive: true,
+    delay: 100
+  })
+</script>
+</div>
+<div class="p-stock_consensus_note">
+<div class="p-stock_consensus_value">売上高予想<span class="ml5 is_plus">+10.2%</span></div>
+<div class="p-stock_consensus_value">経常利益予想<span class="ml5 is_plus">+0.5%</span></div>
+</div>
+</div>
+</div>
+</div>
+<script>
+//<![CDATA[
+
+    var chartData = [["04/12",29874.43,29538.73,29538.73,29876.04,954540000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/12"],["",29605.69,29751.61,29573.79,29897.11,1016610000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/13"],["",29718.06,29620.99,29567.18,29722.4,1036280000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/14"],["",29573.9,29642.69,29558.55,29787.66,941380000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/15"],["",29789.08,29683.37,29621.83,29789.08,909150000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/16"],["",29688.32,29685.37,29530.84,29808.01,918230000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/19"],["",29355.87,29100.38,29014.36,29361.28,1087390000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/20"],["",28660.36,28508.55,28419.84,28778.93,1262320000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/21"],["",28880.78,29188.17,28800.86,29192.39,1083550000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/22"],["",28939.12,29020.63,28770.62,29035.34,955010000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/23"],["",29095.49,29126.23,28896.37,29241.28,974770000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/26"],["",29174.53,28991.89,28990.19,29187.11,1159370000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/27"],["",28935.51,29053.97,28875.91,29139.7,1237080000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/28"],["",28996.66,28812.63,28760.27,29046.49,1350100000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/30"],["",29024.01,29331.37,28966.47,29430.22,1526110000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/06"],["",29330.45,29357.82,29237.36,29449.86,1174040000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/07"],["",29376.89,29518.34,29346.14,29685.41,1126700000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/10"],["",29238.56,28608.59,28535.36,29289.12,1289140000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/11"],["",28712.1,28147.51,27888.59,28831.03,1529390000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/12"],["05/13",27929.01,27448.01,27385.03,27961.96,1408350000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/13"],["",27723.7,28084.47,27723.7,28139.96,1266200000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/14"],["",28310.46,27824.83,27632.53,28312.78,1164980000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/17"],["",27931.57,28406.84,27931.57,28481.17,1231500000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/18"],["",28031.22,28044.45,27842.98,28216.65,1164840000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/19"],["",27875.5,28098.25,27821.96,28176.87,994650000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/20"],["",28269.61,28317.83,28193.03,28411.56,1039307200,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/21"],["",28212.32,28364.61,28212.32,28584.18,993970000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/24"],["",28516.99,28553.98,28443.74,28576.97,993874700,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/25"],["",28396.62,28642.19,28396.62,28710.83,1096750000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/26"],["",28543.32,28549.01,28360.56,28587.21,2404320000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/27"],["",28912.54,29149.41,28899.66,29194.11,1357150000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/28"],["",29019.45,28860.08,28791.6,29147.71,1020730000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/31"],["",28998.65,28814.34,28611.25,29075.47,907470000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/01"],["",28730.81,28946.14,28565.83,29003.55,1248760000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/02"],["",28890.39,29058.11,28879.15,29157.16,1091980000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/03"],["",28901.42,28941.52,28764.68,28991.24,1056820000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/04"],["",29214.0,29019.24,28973.05,29241.2,945920000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/07"],["",29046.03,28963.56,28897.64,29140.68,928660000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/08"],["",28901.56,28860.8,28801.83,28932.03,994450000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/09"],["",28799.74,28958.56,28799.74,29007.53,1028200000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/10"],["",29030.04,28948.73,28839.54,29080.89,1221150000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/11"],["06/14",29153.11,29161.8,29026.27,29208.35,854230000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/14"],["",29256.03,29441.3,29235.71,29480.85,972790000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/15"],["",29306.14,29291.01,29263.72,29434.1,1028680000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/16"],["",29149.34,29018.33,28875.39,29197.68,997590000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/17"],["",29136.74,28964.08,28957.98,29136.74,1512550000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/18"],["",28506.84,28010.93,27795.86,28506.84,1301080000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/21"],["",28513.07,28884.13,28494.46,28895.26,1173250000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/22"],["",28886.92,28874.89,28860.06,29007.83,944360000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/23"],["",28811.82,28875.23,28758.37,28935.34,842480000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/24"],["",29137.3,29066.18,28992.74,29174.17,904260000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/25"],["",29112.66,29048.02,28984.93,29121.28,870730000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/28"],["",28927.44,28812.61,28735.55,28951.68,1034640000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/29"],["",28896.31,28791.53,28779.76,28998.99,963360000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/30"],["",28832.41,28707.04,28624.8,28833.17,833230000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/01"],["",28719.24,28783.28,28688.63,28849.32,904550000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/02"],["",28709.57,28598.19,28581.08,28731.07,774290000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/05"],["",28677.95,28643.21,28587.61,28748.23,794250000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/06"],["",28262.4,28366.95,28161.75,28434.99,1066530000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/07"],["",28332.63,28118.03,28118.03,28366.76,1144050000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/08"],["",27739.42,27940.42,27419.4,28000.02,1425640000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/09"],["",28412.7,28569.02,28405.6,28595.12,1035770000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/12"],["",28713.82,28718.24,28699.04,28852.31,957996200,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/13"]];
+
+//]]>
+</script></div>
+<div class="p-stock_header_foot">
+<div class="p-stocktab" data-turbolinks="false">
+<ul>
+<li class="is_current"><a class="t-top" href="/stock/6501">TOP</a></li>
+<li class=""><a class="t-chart" href="/stock/6501/chart">チャート</a></li>
+<li class=""><a class="t-corporate" href="/stock/6501/fundamental">企業情報</a></li>
+<li class=""><a class="t-corporate-final" href="/stock/6501/consolidated">企業業績・決算</a></li>
+<li class=""><a class="t-news" href="/stock/6501/news">開示情報・ニュース</a></li>
+<li class=""><a class="t-shareholder" href="/stock/6501/yutai">株主優待</a></li>
+<li class=""><a class="t-timeline" href="/stock/6501/timeline">タイムライン</a></li>
+</ul>
+</div>
+</div>
+</section>
+<input id="mw-user-role" type="hidden" value=""/>
+<div data-user_role="" id="add-stock-clip-modal" style="display: none;">
+<div></div>
+</div>
+<div class="register-modal modal" id="register-modal">
+<div class="register-modal-header">
+<a class="btn_close" href="#close" rel="modal:close"><i class="icon-close"></i></a>
+</div>
+<div class="register-modal-body">
+<div class="register-modal-body-label">無料会員登録で</div>
+<div class="register-modal-body-title">MoneyWorldがもっと便利になる<br/>会員限定の機能が使える！</div>
+<div class="register-modal-body-items">
+<div class="register-modal-body-items-item">
+<img class="register-modal-pc-only register-modal-body-items-item-label" src="/assets/register-label-1_pc-918ce0a14b0f1aba4bc44a95d48c45a86ae242519d6230c0a91c1225d45bedc4.svg"/>
+<img class="register-modal-pc-only register-modal-body-items-item-feature" src="/assets/register-feature-1_pc-43c774ff21746e5c494359cd7a490a24f4f7ab232892bfc2e3cc92948f18fa8e.png"/>
+<img class="register-modal-sp-only register-modal-body-items-item-label" src="/assets/register-label-1_sp-e6420d998c02a51bbda36a414bbacf3e8858f4f5884e80216f7d185ffec0c4c8.svg"/>
+<img class="register-modal-sp-only register-modal-body-items-item-feature" src="/assets/register-feature-1_sp-c9fdf1446a47f34d2f84bde8f0707a5770a17647ba0823e1417193f928ca9220.png"/>
+</div>
+<div class="register-modal-body-items-item">
+<img class="register-modal-pc-only register-modal-body-items-item-label" src="/assets/register-label-2_pc-2f374c69baf8a29f3d5240c645daf84747b63a3b2c1c01899a1f7f09f023e0dd.svg"/>
+<img class="register-modal-pc-only register-modal-body-items-item-feature" src="/assets/register-feature-2_pc-acb2acf734fc4d4197998611f3636f88457b1f78fbfa2d33a9eec433f433e648.png"/>
+<img class="register-modal-sp-only register-modal-body-items-item-label" src="/assets/register-label-2_sp-eab7e33be40266b42fd6adc0281df45f4be006735502e49686a295446ee13950.svg"/>
+<img class="register-modal-sp-only register-modal-body-items-item-feature" src="/assets/register-feature-2_sp-c4efa258f8170cd2d04fa169966eedc7d08d150a1b17c8c21dae5a3edb01d2f5.png"/>
+</div>
+</div>
+</div>
+<div class="register-modal-footer">
+<div><a class="register-modal-footer-signup" href="/signup/guide">無料会員登録はこちら</a></div>
+<div>すでに会員の方は<form action="/auth/auth0?prompt=login" class="register-modal-footer-login" method="post"><input type="submit" value="ログイン"/><input name="authenticity_token" type="hidden" value="uOn4C5ML+es9F75QE4vvxeCMAenvcBMqVcqFjvVA6f9r2FtpRmRnR/WAnHADtX3gVyUIzTnQcJp00gNLeMuIJQ=="/></form></div>
+</div>
+</div>
+</div>
+<div class="l-contents_body u-mt_30">
+<div class="l-contents-main">
+<h1 class="l-contents-main_title">日立製作所の株価情報TOP</h1>
+<div class="mh_top_chart u-mb_56" id="sec2_top_chart"></div>
+<div class="mh_quick_list u-mb_56" id="sec3-quick-list"></div>
+<div class="mh_consolidated_info u-mb_56" id="consolidated-info"></div>
+<div class="mh_company_info u-mb_56" id="company-info"></div>
+<div class="mh_related_news u-mb_56" id="related-news"></div>
+<div class="mh_ai_news u-mb_56" id="ai-news"></div>
+<div class="top_clips_section l-section u-mb_56">
+<div class="l-section_head">
+<h2 class="l-section_title">注目のクリップ</h2>
+</div>
+<div class="l-section_body">
+<div class="top_clips">
+<div class="top_clips_item">
+<a class="hover_anchor" href="/post?id=article_5181"></a>
+<div class="news_section padding_content">
+<div class="news_sub_1 news_data">
+<div class="news_info">
+<div class="news_date truncate-overflow-1">2021/7/8 15:05</div>
+<h3 class="news_title pc-only"><a class="block truncate-overflow-2 stop-propagation" href="/news/05_00056412_news">海外投資家が２週連続の売り越し、個人は買い越し─投資主体別動向(6/28～7/2)</a></h3>
+<div class="news_title sp-only"><a class="block truncate-overflow-3 stop-propagation" href="/news/05_00056412_news">海外投資家が２週連続の売り越し、個人は買い越し─投資主体別動向(6/28～7/2)</a></div>
+<div class="news_excerpt truncate-overflow-2 pc-only">東京証券取引所が７月８日発表した６/28～７/２の投資主体別売買動向（東証、名証２市場の合計）によると、海外投資家は現物株を２週連続で売り越した。売り越し金額は2737億円と、前の週（1114億円の売り越し）から売り越し […]</div>
+<div class="news_category pc-only">
+<span class="cate-txt"></span>
+</div>
+</div>
+<div class="p-news_figure_img">
+<img class="p-news_bg_img" onerror="this.onerror=null;this.src='/assets/mw_613x320-16da023c6567a4df270d4367ef2bda1a1487677c13ab4a5849b21c5020ff345e.png'" src="https://qmwstorage01.blob.core.windows.net/labomediacollection/sites/5/2021/07/5115fc74f06ced26d5f5dd7cd199ff1e-1-550x270.png">
+<div class="p-news_figure_hover"></div>
+</img></div>
+</div>
+<div class="news_excerpt truncate-overflow-2 c-sp-only">東京証券取引所が７月８日発表した６/28～７/２の投資主体別売買動向（東証、名証２市場の合計）によると、海外投資家は現物株を２週連続で売り越した。売り越し金額は2737億円と、前の週（1114億円の売り越し）から売り越し […]</div>
+<div class="news_category c-sp-only">
+<span class="cate-txt"></span>
+</div>
+</div>
+<div class="user_info margin_content">
+<div class="basic-info">
+<a class="user_avatar stop-propagation" href="/users/511" style="background-image: url('/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e228f544393fb2c90d426ead4ac9527a7f0ccd5/1611818718');">
+</a>
+<div class="left-info">
+<div>
+<a class="nickname stop-propagation" href="/users/511">ゆうなぎ(夕凪)</a>
+<button class="btn-primary profile-action-follow toggle-follow-unfollow-partial-btn" data-followed="" data-id="511" onclick="openRegisterModal()">フォローする</button>
+<script>
+//<![CDATA[
+
+    function openRegisterModal() {
+      $('#register-modal').modal({ showClose: false, closeExisting: false });
+        return;
+    }
+
+//]]>
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="clip_comment padding_content">
+<p class="truncate-overflow-3">海外投資家が売り越し、個人投資家が逆張りの買いと、下落パターンでよく見られる現象でした。
+　
+大和証券のレポートによれば、本日7/8に3268億円、明日7/9に5030億円のETF決算に伴う売り需要があるようで、その売り需要を先回りして売っていたのかも知れませんね。
+　
+閑散相場なので、ちょっとした需給がもろ出てくる感じでしょうか。</p>
+</div>
+<div class="time_created">
+<p id="clip_comment_14381_date">
+                2021/7/8 15:51
+            </p>
+</div>
+</div>
+<div class="top_clips_item">
+<a class="hover_anchor" href="/post?id=article_5248"></a>
+<div class="news_section padding_content">
+<div class="news_sub_1 news_data">
+<div class="news_info">
+<div class="news_date truncate-overflow-1">2021/7/2 18:30</div>
+<h3 class="news_title pc-only"><a class="block truncate-overflow-2 stop-propagation" href="/news/05_00056029_news">日経平均の週足チャートが「デッドクロス」形成、弱気相場入りのサイン？</a></h3>
+<div class="news_title sp-only"><a class="block truncate-overflow-3 stop-propagation" href="/news/05_00056029_news">日経平均の週足チャートが「デッドクロス」形成、弱気相場入りのサイン？</a></div>
+<div class="news_excerpt truncate-overflow-2 pc-only">【日経ＱＵＩＣＫニュース（ＮＱＮ）三輪恭久】今週（６月28日～７月２日）の日経平均株価は２万8783円28銭で終えた。前週末に比べると282円90銭安く、下落は４週ぶりだった。２日終値時点の日経平均の週足チャートをみると […]</div>
+<div class="news_category pc-only">
+<span class="cate-txt">NQNセレクト</span>
+<span class="cate-txt"></span>
+</div>
+</div>
+<div class="p-news_figure_img">
+<img class="p-news_bg_img" onerror="this.onerror=null;this.src='/assets/mw_613x320-16da023c6567a4df270d4367ef2bda1a1487677c13ab4a5849b21c5020ff345e.png'" src="https://qmwstorage01.blob.core.windows.net/labomediacollection/sites/5/2021/07/0702nkw2-550x270.png">
+<div class="p-news_figure_hover"></div>
+</img></div>
+</div>
+<div class="news_excerpt truncate-overflow-2 c-sp-only">【日経ＱＵＩＣＫニュース（ＮＱＮ）三輪恭久】今週（６月28日～７月２日）の日経平均株価は２万8783円28銭で終えた。前週末に比べると282円90銭安く、下落は４週ぶりだった。２日終値時点の日経平均の週足チャートをみると […]</div>
+<div class="news_category c-sp-only">
+<span class="cate-txt">NQNセレクト</span>
+<span class="cate-txt"></span>
+</div>
+</div>
+<div class="user_info margin_content">
+<div class="basic-info">
+<a class="user_avatar stop-propagation" href="/users/17018" style="background-image: url('/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWxIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3d89d643a4ef736034fc0eed766b90aeda588b3a/avatar.png');">
+</a>
+<div class="left-info">
+<div>
+<a class="nickname stop-propagation" href="/users/17018">netstock22</a>
+<button class="btn-primary profile-action-follow toggle-follow-unfollow-partial-btn" data-followed="" data-id="17018" onclick="openRegisterModal()">フォローする</button>
+<script>
+//<![CDATA[
+
+    function openRegisterModal() {
+      $('#register-modal').modal({ showClose: false, closeExisting: false });
+        return;
+    }
+
+//]]>
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="clip_comment padding_content">
+<p class="truncate-overflow-3">「20年３月に週足のデッドクロスを形成した翌週は急反発した経緯」ですが、あれだけ急落したら急反発しますよ。それは当たり前として、それから５ヶ月にわたって下値固めと上値抜きを少しずつやって、11月から一気に上抜けしました。この長い助走期間を耐え忍ぶのが辛いです。</p>
+</div>
+<div class="time_created">
+<p id="clip_comment_14650_date">
+                2021/7/11 23:34
+            </p>
+</div>
+</div>
+</div>
+<div class="l-section_foot">
+<a class="l-section_foot_link timeline" href="/timeline">クリップ一覧へ</a>
+</div>
+</div>
+</div>
+<script>
+//<![CDATA[
+
+  $(document).on('mouseover', '.stop-propagation', function(e) {
+    $(this).closest('.top_clips_item').addClass('base-clip-theme');
+  });
+
+  $(document).on('mouseout', '.stop-propagation', function(e) {
+    $(this).closest('.top_clips_item').removeClass('base-clip-theme');
+  });
+
+//]]>
+</script>
+<div class="l-section u-mb_56">
+<div class="l-section_head">
+<h2 class="l-section_title">銘柄名・銘柄コード・キーワードで探す</h2>
+</div>
+<div class="l-section_body">
+<div id="content_search">
+<div class="u-mb_16">
+<div class="p-searchbox">
+<div class="p-searchbox_body">
+<form accept-charset="UTF-8" action="/stock/stock-list" method="get">
+<div class="p-searchbox_wrap">
+<div class="p-searchbox-label shared content_search">
+<h3>キーワードから企業株価を探す</h3>
+</div>
+<div class="p-searchbox-inputs p-search-content">
+<input autocomplete="off" class="p-searchbox-input p-search-content-input" maxlength="255" name="keyword" placeholder="銘柄名・銘柄コード・キーワードを入力" type="search"/>
+<button class="p-searchbox-button" type="submit" value="検索">
+<span>検索</span>
+</button>
+</div>
+</div>
+</form></div>
+<div class="mh_tags_theme" id="tags_theme"></div>
+</div>
+</div>
+<div class="c-tab" id="search_stock">
+<div class="c-tab_head">
+<ul>
+<li class="search-stock-tabs is_current" id="tab_stock_score" target_tab="#stock_score">
+<h3><a href="javascript:void(0)">スコアで探す</a></h3>
+</li>
+<li class="search-stock-tabs" id="tab_stock_theme" target_tab="#stock_theme">
+<h3><a href="javascript:void(0)">テーマで探す</a></h3>
+</li>
+<li class="search-stock-tabs" id="tab_stock_industry" target_tab="#stock_industry">
+<h3><a href="javascript:void(0)">業種で探す</a></h3>
+</li>
+<li class="search-stock-tabs" id="tab_stock_market" target_tab="#stock_market">
+<h3><a href="javascript:void(0)">市場で探す</a></h3>
+</li>
+</ul>
+</div>
+<div class="c-tab_body c-has_bg">
+<div class="search-stock-tabs is_current" id="stock_score">
+<div class="mh_search_score_tab" id="score_search_tab"></div>
+</div>
+<div class="search-stock-tabs mh_search_theme_tab" id="stock_theme"></div>
+<div class="search-stock-tabs" id="stock_industry"></div>
+<div class="search-stock-tabs" id="stock_market"></div>
+</div>
+</div>
+<div class="c-tab" id="search_stock_sp">
+<label> カテゴリー・分類から探す </label>
+<div class="search_stock_sp_block">
+<a class="search_stock_sp_item" href="/search_score_sp">
+<img src="/assets/search_core_chart-352957ece540f30a2c8d582ba999bb5e8e302263f5175e1fc1c74bc5f5c4d214.svg">
+<span><strong>スコア</strong> から探す</span>
+</img></a>
+<a class="search_stock_sp_item" onclick="openModal('theme_modal')">
+<img src="/assets/search_theme-07167cda20500b7e74b8b51b13e9ed620d48c392035669bcf9bdd949bb94762a.svg">
+<span><strong>テーマ</strong> から探す</span>
+</img></a>
+<a class="search_stock_sp_item" onclick="openModal('industry_modal')">
+<img src="/assets/search_industry-36faec1169e476de25097272d3c98e8521c8b6251495323419b488da07f834d8.svg">
+<span><strong>業種</strong>から探す</span>
+</img></a>
+<a class="search_stock_sp_item" onclick="openModal('market_modal')">
+<img src="/assets/search_market-f0d4b14e98613fa740c14be57544c7dbe54bb011176f51c514115f9b9eb495d2.svg">
+<span><strong>市場</strong>から探す</span>
+</img></a>
+</div>
+</div>
+<div class="modal search-theme-modal is_current" id="theme_modal">
+<div class="modal-header">
+<a class="close" href="#close" rel="modal:close"><i class="arrow left"></i></a>
+<div class="title"> テーマで探す </div>
+</div>
+<div class="modal-content">
+<div id="stock_theme_sp"></div>
+</div>
+</div>
+<div class="modal search-industry-modal is_current" id="industry_modal">
+<div class="modal-header">
+<a class="close" href="#close" rel="modal:close"><i class="arrow left"></i></a>
+<div class="title"> 業種から探す </div>
+</div>
+<div class="modal-content">
+<div id="stock_industry_sp"></div>
+</div>
+</div>
+<div class="modal search-market-modal is_current" id="market_modal">
+<div class="modal-header">
+<a class="close" href="#close" rel="modal:close"><i class="arrow left"></i></a>
+<div class="title"> 市場で探す </div>
+</div>
+<div class="modal-content">
+<div id="stock_market_sp"></div>
+</div>
+</div>
+<script>
+function openModal(id) {
+  $('#' + id).modal({ showClose: false });
+}
+</script>
+</div>
+</div>
+</div>
+<div class="mh_categories_series u-mb_56" id="categories_series">
+</div>
+<script>
+//<![CDATA[
+
+  var show_config = {"sec8a_content_search_score_tab":{"direct_render":false,"html_id":"score_search_tab","partial_path":"shared/content_search/score_tab","action":"/score_tab"},"sec8a_content_search_theme_tab":{"direct_render":false,"html_id":"stock_theme","partial_path":"shared/content_search/theme_tab","action":"/stock_theme"},"sec8a_content_search_industry_tab":{"direct_render":false,"html_id":"stock_industry","partial_path":"shared/content_search/industry_tab","action":"/search_industry"},"sec8a_content_search_market_tab":{"direct_render":false,"html_id":"stock_market","partial_path":"shared/content_search/market_tab","action":"/search_market"},"sec8a_content_search_theme_tab_sp":{"direct_render":false,"html_id":"stock_theme_sp","partial_path":"shared/content_search/theme_tab","action":"/stock_theme"},"sec8a_content_search_industry_tab_sp":{"direct_render":false,"html_id":"stock_industry_sp","partial_path":"shared/content_search/industry_tab","action":"/search_industry"},"sec8a_content_search_market_tab_sp":{"direct_render":false,"html_id":"stock_market_sp","partial_path":"shared/content_search/market_tab","action":"/search_market"},"content_search_theme_tag":{"direct_render":false,"html_id":"tags_theme","partial_path":"shared/content_search/tags","action":"/tag_theme"},"sec2_top_chart":{"direct_render":false,"html_id":"sec2_top_chart","partial_path":"stock/top/sec2_chart","action":"/stock/top_chart"},"sec2_top_candlestick":{"direct_render":true,"html_id":"sec2_stock_candlestick","partial_path":"stock/top/candlestick","action":"/stock/top_candlestick"},"sec3_quick_list":{"direct_render":false,"html_id":"sec3-quick-list","partial_path":"stock/top/quick_list","action":"/quick_list"},"sec3_quick_info":{"direct_render":true,"html_id":"sec3-quick-info","partial_path":"stock/top/quick_info","action":"/quick_info"},"consolidated_info":{"direct_render":false,"html_id":"consolidated-info","partial_path":"shared/consolidated/consolidated_info","action":"/stock/consolidated_info"},"company_info":{"direct_render":false,"html_id":"company-info","partial_path":"stock/shared/company_info","action":"/stock/company_info"},"related_news":{"direct_render":false,"html_id":"related-news","partial_path":"stock/shared/news/7a_news","action":"/stock/related_news"},"ainews":{"direct_render":false,"html_id":"ai-news","partial_path":"shared/news/ai_news","action":"/stock/ainews"},"categories_series":{"direct_render":false,"html_id":"categories_series","partial_path":"stock/news/categories_series","action":"/stock/categories_series"}};
+  var code = 6501;
+  var mini_chart_data = [["04/12",29874.43,29538.73,29538.73,29876.04,954540000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/12"],["",29605.69,29751.61,29573.79,29897.11,1016610000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/13"],["",29718.06,29620.99,29567.18,29722.4,1036280000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/14"],["",29573.9,29642.69,29558.55,29787.66,941380000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/15"],["",29789.08,29683.37,29621.83,29789.08,909150000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/16"],["",29688.32,29685.37,29530.84,29808.01,918230000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/19"],["",29355.87,29100.38,29014.36,29361.28,1087390000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/20"],["",28660.36,28508.55,28419.84,28778.93,1262320000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/21"],["",28880.78,29188.17,28800.86,29192.39,1083550000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/22"],["",28939.12,29020.63,28770.62,29035.34,955010000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/23"],["",29095.49,29126.23,28896.37,29241.28,974770000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/26"],["",29174.53,28991.89,28990.19,29187.11,1159370000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/27"],["",28935.51,29053.97,28875.91,29139.7,1237080000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/28"],["",28996.66,28812.63,28760.27,29046.49,1350100000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/30"],["",29024.01,29331.37,28966.47,29430.22,1526110000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/06"],["",29330.45,29357.82,29237.36,29449.86,1174040000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/07"],["",29376.89,29518.34,29346.14,29685.41,1126700000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/10"],["",29238.56,28608.59,28535.36,29289.12,1289140000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/11"],["",28712.1,28147.51,27888.59,28831.03,1529390000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/12"],["05/13",27929.01,27448.01,27385.03,27961.96,1408350000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/13"],["",27723.7,28084.47,27723.7,28139.96,1266200000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/14"],["",28310.46,27824.83,27632.53,28312.78,1164980000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/17"],["",27931.57,28406.84,27931.57,28481.17,1231500000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/18"],["",28031.22,28044.45,27842.98,28216.65,1164840000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/19"],["",27875.5,28098.25,27821.96,28176.87,994650000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/20"],["",28269.61,28317.83,28193.03,28411.56,1039307200,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/21"],["",28212.32,28364.61,28212.32,28584.18,993970000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/24"],["",28516.99,28553.98,28443.74,28576.97,993874700,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/25"],["",28396.62,28642.19,28396.62,28710.83,1096750000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/26"],["",28543.32,28549.01,28360.56,28587.21,2404320000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/27"],["",28912.54,29149.41,28899.66,29194.11,1357150000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/28"],["",29019.45,28860.08,28791.6,29147.71,1020730000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/31"],["",28998.65,28814.34,28611.25,29075.47,907470000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/01"],["",28730.81,28946.14,28565.83,29003.55,1248760000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/02"],["",28890.39,29058.11,28879.15,29157.16,1091980000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/03"],["",28901.42,28941.52,28764.68,28991.24,1056820000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/04"],["",29214.0,29019.24,28973.05,29241.2,945920000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/07"],["",29046.03,28963.56,28897.64,29140.68,928660000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/08"],["",28901.56,28860.8,28801.83,28932.03,994450000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/09"],["",28799.74,28958.56,28799.74,29007.53,1028200000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/10"],["",29030.04,28948.73,28839.54,29080.89,1221150000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/11"],["06/14",29153.11,29161.8,29026.27,29208.35,854230000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/14"],["",29256.03,29441.3,29235.71,29480.85,972790000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/15"],["",29306.14,29291.01,29263.72,29434.1,1028680000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/16"],["",29149.34,29018.33,28875.39,29197.68,997590000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/17"],["",29136.74,28964.08,28957.98,29136.74,1512550000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/18"],["",28506.84,28010.93,27795.86,28506.84,1301080000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/21"],["",28513.07,28884.13,28494.46,28895.26,1173250000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/22"],["",28886.92,28874.89,28860.06,29007.83,944360000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/23"],["",28811.82,28875.23,28758.37,28935.34,842480000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/24"],["",29137.3,29066.18,28992.74,29174.17,904260000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/25"],["",29112.66,29048.02,28984.93,29121.28,870730000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/28"],["",28927.44,28812.61,28735.55,28951.68,1034640000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/29"],["",28896.31,28791.53,28779.76,28998.99,963360000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/30"],["",28832.41,28707.04,28624.8,28833.17,833230000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/01"],["",28719.24,28783.28,28688.63,28849.32,904550000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/02"],["",28709.57,28598.19,28581.08,28731.07,774290000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/05"],["",28677.95,28643.21,28587.61,28748.23,794250000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/06"],["",28262.4,28366.95,28161.75,28434.99,1066530000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/07"],["",28332.63,28118.03,28118.03,28366.76,1144050000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/08"],["",27739.42,27940.42,27419.4,28000.02,1425640000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/09"],["",28412.7,28569.02,28405.6,28595.12,1035770000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/12"],["",28713.82,28718.24,28699.04,28852.31,957996200,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/13"]];
+  var lineBarChartData = null;
+
+  if (typeof show_config !== "undefined") {
+    var cfg_sections = _.values(show_config);
+    for (var i in cfg_sections) {
+      if (cfg_sections[i].direct_render === false) {
+        show_loading(cfg_sections[i].html_id, null);
+        $.ajax({
+          method: 'GET',
+          url: cfg_sections[i].action,
+          htmlID: cfg_sections[i].html_id,
+          data: {
+            cfg: cfg_sections[i],
+            id: code
+          },
+          success: function(){
+            hide_loading(this.htmlID, 'rmh__0');
+          }
+        });
+      }
+    }
+  }
+
+//]]>
+</script>
+</div>
+<div class="l-contents-aside">
+<div class="tags-statistic">
+<div class="tags-statistic__title margin-bottom-12">
+<b>どう見る？この銘柄(上位5つ)</b>
+<button data-template="95324572-1a07-4e7a-9dc6-1281795f2c92" data-tippy-95324572-1a07-4e7a-9dc6-1281795f2c92="" data-tippy-arrow="true" data-tippy-maxwidth="100%" data-tippy-theme="light-border-full">
+<i class="icon-q"></i>
+</button>
+<div id="95324572-1a07-4e7a-9dc6-1281795f2c92" style="display:none">
+<p class="t-title"><strong>どう見る？この銘柄</strong></p>
+<br/>
+<p>
+    どう見る？この銘柄は、1日１回ユーザーのお気に入り銘柄のタグを集計し、それぞれの銘柄に対する印象を表したものです。
+  </p>
+</div>
+<script>
+  tippy('[data-tippy-95324572-1a07-4e7a-9dc6-1281795f2c92]', {
+    boundary: 'window',
+    content: function(reference) {
+      var id = reference.getAttribute('data-template');
+      return $('#' + id).html();
+    },
+    interactive: true,
+    delay: 100
+  })
+</script>
+</div>
+<div class="tags-statistic__content">
+<div class="tags-statistic__item tag-ratio pos_1">
+<span class="tag-ratio__label">バリュー株</span>
+<span class="tag-ratio__bar">
+<span class="tag-ratio__bar--filled"></span>
+</span>
+<span class="tag-ratio__number">38%</span>
+</div>
+<div class="tags-statistic__item tag-ratio pos_2">
+<span class="tag-ratio__label">長期投資</span>
+<span class="tag-ratio__bar">
+<span class="tag-ratio__bar--filled"></span>
+</span>
+<span class="tag-ratio__number">25%</span>
+</div>
+<div class="tags-statistic__item tag-ratio pos_3">
+<span class="tag-ratio__label">グロース期待</span>
+<span class="tag-ratio__bar">
+<span class="tag-ratio__bar--filled"></span>
+</span>
+<span class="tag-ratio__number">13%</span>
+</div>
+<div class="tags-statistic__item tag-ratio pos_4">
+<span class="tag-ratio__label">配当狙い</span>
+<span class="tag-ratio__bar">
+<span class="tag-ratio__bar--filled"></span>
+</span>
+<span class="tag-ratio__number">13%</span>
+</div>
+<div class="tags-statistic__item tag-ratio pos_5">
+<span class="tag-ratio__label">上昇トレンド</span>
+<span class="tag-ratio__bar">
+<span class="tag-ratio__bar--filled"></span>
+</span>
+<span class="tag-ratio__number">13%</span>
+</div>
+</div>
+<script>
+  $(document).on('turbolinks:load', function() {
+    $(document).ready(function() {
+      var taggings = [{"name":"バリュー株","count":3,"ratio":0.38},{"name":"長期投資","count":2,"ratio":0.25},{"name":"グロース期待","count":1,"ratio":0.13},{"name":"配当狙い","count":1,"ratio":0.13},{"name":"上昇トレンド","count":1,"ratio":0.13}];
+      taggings.forEach(function(tag, i) {
+        var width = ((tag.ratio / taggings[0].ratio) * 100).toFixed() + '%';
+        $('.pos_'+ (i + 1) + ' .tag-ratio__bar--filled').css('width', width)
+      });
+    });
+  });
+  </script>
+</div>
+<div class="l-section toredabi_banner">
+<div class="l-section_body">
+<a href="https://moneyworld.jp/news/05_00053444_news" target="_blank">
+<img alt="企業情報お知らせサービス" class="lazy-image lazy-opacity" data-src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3hHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--afa612d8cd1577d84bab14b4ace7a33cf1fe49be/%E4%BC%81%E6%A5%AD%E6%83%85%E5%A0%B1%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%94%B9.png" style="opacity: 0"/>
+</a>
+</div>
+<div class="l-section_body">
+<a href="https://moneyworld.jp/news/05_00055757_news" target="_blank">
+<img alt="QUICK Money World使い方" class="lazy-image lazy-opacity" data-src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEJHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e0b43c17a736f4c3488d8cc5605d786c4414b37/%E4%BD%BF%E3%81%84%E6%96%B9%E3%83%90%E3%83%8A%E3%83%BC.png" style="opacity: 0"/>
+</a>
+</div>
+<div class="l-section_body">
+<a href="https://moneyworld.jp/news/05_00044968_news" target="_blank">
+<img alt="QMWスマホアプリ登場" class="lazy-image lazy-opacity" data-src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbk0rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--463145b3bc79613969208d04ffd3d240a4ac8ddd/%E3%82%A2%E3%83%97%E3%83%AA%E8%AA%98%E5%B0%8E_%E5%9B%9B%E8%A7%92%E3%83%90%E3%83%8A%E3%83%BC_20210520_3.png" style="opacity: 0"/>
+</a>
+</div>
+<div class="l-section_body">
+<a href="https://www.k-zone.co.jp/td/?utm_source=money_world&amp;utm_medium=banner&amp;utm_campaign=170_event&amp;utm_content=td_top" target="_blank">
+<img alt="株のデモトレアプリはトレダビ" class="lazy-image lazy-opacity" data-src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGNMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--acda418020c3fba523e5c0e8af45a4b745fd6523/toredabi-banner.png" style="opacity: 0"/>
+</a>
+</div>
+</div>
+<div class="l-section l-section_has_bg l-mini_chart">
+<div class="l-section_head">
+<h2 class="l-section_title">主なマーケット情報</h2>
+</div>
+<div class="l-section_body u-m_014">
+<div id="graph">
+<div class="g-title">
+<a class="st-name s-bold" href="/market/101.IND_NIKKEI">日経平均株価</a>
+</div>
+<div class="g-type">
+<ul>
+<li class="r-chart-type" data-c-type="one_day">
+<a href="javascript:void(0)">1日</a>
+</li>
+<li class="r-chart-type is_current" data-c-type="three_months">
+<a href="javascript:void(0)">3ヶ月</a>
+</li>
+<li class="r-chart-type" data-c-type="six_months">
+<a href="javascript:void(0)">6ヶ月</a>
+</li>
+<li class="r-chart-type" data-c-type="one_year">
+<a href="javascript:void(0)">1年</a>
+</li>
+<li class="r-chart-type" data-c-type="five_years">
+<a href="javascript:void(0)">5年</a>
+</li>
+</ul>
+</div>
+<div id="mini-chart-graph"></div>
+<span class="chart-link-btn-sml" id="chart-btn-sml"><a href="/market/101.IND_NIKKEI"><span class="span-btn-stock-name-detail">日経平均株価(日経225)</span>の詳細へ</a></span>
+</div>
+<div class="p-stock-list" id="p-indexes">
+<div class="p-stocks rs-list">
+<div class="p-stock_item" data-code="101.IND_NIKKEI">
+<div class="radio is_selected" data-code="101.IND_NIKKEI"></div>
+<div class="p-stock_item_body">
+<a class="p-stock_title truncate-overflow-1">日経平均株価</a>
+<div class="p-stock_price">28,718.24<span class="inc-price is_plus">+149.22 (+0.522%)</span></div>
+</div>
+</div>
+<div class="p-stock_item" data-code="@@CCO/U">
+<div class="radio" data-code="@@CCO/U"></div>
+<div class="p-stock_item_body">
+<a class="p-stock_title truncate-overflow-1">ナスダック総合</a>
+<div class="p-stock_price">14,733.24<span class="inc-price is_plus">+31.321 (+0.21%)</span></div>
+</div>
+</div>
+<div class="p-stock_item" data-code="XJPY/8_D">
+<div class="radio" data-code="XJPY/8_D"></div>
+<div class="p-stock_item_body">
+<a class="p-stock_title truncate-overflow-1">米ドル/円</a>
+<div class="p-stock_price">110.2<span class="inc-price is_minus">-0.14 </span></div>
+</div>
+</div>
+<div class="p-stock_item" data-code="XEURJPY/8_D">
+<div class="radio" data-code="XEURJPY/8_D"></div>
+<div class="p-stock_item_body">
+<a class="p-stock_title truncate-overflow-1">ユーロ/円</a>
+<div class="p-stock_price">130.53<span class="inc-price is_minus">-0.33 </span></div>
+</div>
+</div>
+<div class="p-stock_item" data-code="191.IND_NIKKEI">
+<div class="radio" data-code="191.IND_NIKKEI"></div>
+<div class="p-stock_item_body">
+<a class="p-stock_title truncate-overflow-1">日経ジャスダック平均株価</a>
+<div class="p-stock_price">3,995.86<span class="inc-price is_plus">+14.76 (+0.371%)</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="l-section_foot">
+<a class="l-section_foot_link" href="/market">マーケット情報一覧へ</a>
+</div>
+</div>
+<div class="mh_top5_related_stock u-mb_24" id="top5-related-stock"></div>
+<div class="sec11 top5-theme">
+<div class="mh_top5_theme u-mb_24" id="top5-theme"></div>
+</div>
+<div class="mh_top5_news u-mb_24" id="top5-news"></div>
+<div class="l-section">
+<div class="l-section_head">
+<h2 class="l-section_title_2">企業・銘柄を探す</h2>
+</div>
+<div class="l-section_body">
+<dl class="p-aside_links">
+<dt>企業株価検索</dt>
+<dd><a href="/stock">キーワード検索</a></dd>
+<dd><a href="/stock?tab=stock_industry">業種から探す</a></dd>
+<dd><a href="/stock?tab=stock_theme">テーマから探す</a></dd>
+<dd><a href="/stock?tab=stock_market">市場で探す</a></dd>
+<dd><a href="/stock">スコアから探す</a></dd>
+<dt>株式ランキング</dt>
+<dd><a href="/stock/ranking?type=attract-stock&amp;market=all&amp;industry=all">注目株ランキング </a></dd>
+<dd><a href="/stock/ranking?type=price-rise&amp;market=all&amp;industry=all">値上がり率ランキング</a></dd>
+<dd><a href="/stock/ranking?type=price-drop&amp;market=all&amp;industry=all">値下がり率ランキング</a></dd>
+<dd><a href="/stock/ranking?type=trading-value&amp;market=all&amp;industry=all">売買代金ランキング</a></dd>
+<dd><a href="/stock/ranking?type=capitalization&amp;market=all&amp;industry=all">時価総額ランキング</a></dd>
+</dl>
+</div>
+</div>
+<div class="l-section">
+<div class="mh_analysis_tool" id="analysis-tool"></div>
+</div>
+</div>
+<script>
+//<![CDATA[
+
+  var rs_config = {"top5_related_stock":{"direct_render":false,"html_id":"top5-related-stock","partial_path":"right_sider/stock/sec10_top5_related_stock","action":"/stock/top5_related_stock"},"top5_theme":{"direct_render":false,"html_id":"top5-theme","partial_path":"right_sider/theme/top_5","action":"/stock/top5_theme"},"top5_news":{"direct_render":false,"html_id":"top5-news","partial_path":"right_sider/news/top_5","action":"/stock/top5_news"},"sec18_analysis_tool":{"direct_render":false,"html_id":"analysis-tool","partial_path":"right_sider/analysis_tool","action":"/analysis_tool"}};
+  var code = 6501;
+  var mini_chart_data = [["04/12",29874.43,29538.73,29538.73,29876.04,954540000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/12"],["",29605.69,29751.61,29573.79,29897.11,1016610000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/13"],["",29718.06,29620.99,29567.18,29722.4,1036280000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/14"],["",29573.9,29642.69,29558.55,29787.66,941380000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/15"],["",29789.08,29683.37,29621.83,29789.08,909150000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/16"],["",29688.32,29685.37,29530.84,29808.01,918230000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/19"],["",29355.87,29100.38,29014.36,29361.28,1087390000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/20"],["",28660.36,28508.55,28419.84,28778.93,1262320000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/21"],["",28880.78,29188.17,28800.86,29192.39,1083550000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/22"],["",28939.12,29020.63,28770.62,29035.34,955010000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/23"],["",29095.49,29126.23,28896.37,29241.28,974770000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/26"],["",29174.53,28991.89,28990.19,29187.11,1159370000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/27"],["",28935.51,29053.97,28875.91,29139.7,1237080000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/28"],["",28996.66,28812.63,28760.27,29046.49,1350100000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/04/30"],["",29024.01,29331.37,28966.47,29430.22,1526110000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/06"],["",29330.45,29357.82,29237.36,29449.86,1174040000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/07"],["",29376.89,29518.34,29346.14,29685.41,1126700000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/10"],["",29238.56,28608.59,28535.36,29289.12,1289140000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/11"],["",28712.1,28147.51,27888.59,28831.03,1529390000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/12"],["05/13",27929.01,27448.01,27385.03,27961.96,1408350000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/13"],["",27723.7,28084.47,27723.7,28139.96,1266200000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/14"],["",28310.46,27824.83,27632.53,28312.78,1164980000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/17"],["",27931.57,28406.84,27931.57,28481.17,1231500000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/18"],["",28031.22,28044.45,27842.98,28216.65,1164840000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/19"],["",27875.5,28098.25,27821.96,28176.87,994650000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/20"],["",28269.61,28317.83,28193.03,28411.56,1039307200,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/21"],["",28212.32,28364.61,28212.32,28584.18,993970000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/24"],["",28516.99,28553.98,28443.74,28576.97,993874700,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/25"],["",28396.62,28642.19,28396.62,28710.83,1096750000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/26"],["",28543.32,28549.01,28360.56,28587.21,2404320000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/27"],["",28912.54,29149.41,28899.66,29194.11,1357150000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/28"],["",29019.45,28860.08,28791.6,29147.71,1020730000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/05/31"],["",28998.65,28814.34,28611.25,29075.47,907470000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/01"],["",28730.81,28946.14,28565.83,29003.55,1248760000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/02"],["",28890.39,29058.11,28879.15,29157.16,1091980000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/03"],["",28901.42,28941.52,28764.68,28991.24,1056820000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/04"],["",29214.0,29019.24,28973.05,29241.2,945920000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/07"],["",29046.03,28963.56,28897.64,29140.68,928660000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/08"],["",28901.56,28860.8,28801.83,28932.03,994450000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/09"],["",28799.74,28958.56,28799.74,29007.53,1028200000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/10"],["",29030.04,28948.73,28839.54,29080.89,1221150000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/11"],["06/14",29153.11,29161.8,29026.27,29208.35,854230000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/14"],["",29256.03,29441.3,29235.71,29480.85,972790000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/15"],["",29306.14,29291.01,29263.72,29434.1,1028680000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/16"],["",29149.34,29018.33,28875.39,29197.68,997590000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/17"],["",29136.74,28964.08,28957.98,29136.74,1512550000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/18"],["",28506.84,28010.93,27795.86,28506.84,1301080000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/21"],["",28513.07,28884.13,28494.46,28895.26,1173250000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/22"],["",28886.92,28874.89,28860.06,29007.83,944360000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/23"],["",28811.82,28875.23,28758.37,28935.34,842480000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/24"],["",29137.3,29066.18,28992.74,29174.17,904260000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/25"],["",29112.66,29048.02,28984.93,29121.28,870730000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/28"],["",28927.44,28812.61,28735.55,28951.68,1034640000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/29"],["",28896.31,28791.53,28779.76,28998.99,963360000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/06/30"],["",28832.41,28707.04,28624.8,28833.17,833230000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/01"],["",28719.24,28783.28,28688.63,28849.32,904550000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/02"],["",28709.57,28598.19,28581.08,28731.07,774290000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/05"],["",28677.95,28643.21,28587.61,28748.23,794250000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/06"],["",28262.4,28366.95,28161.75,28434.99,1066530000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/07"],["",28332.63,28118.03,28118.03,28366.76,1144050000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/08"],["",27739.42,27940.42,27419.4,28000.02,1425640000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/09"],["",28412.7,28569.02,28405.6,28595.12,1035770000,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/12"],["",28713.82,28718.24,28699.04,28852.31,957996200,null,null,null,null,null,null,null,null,null,null,false,false,5,"jp_index","2021/07/13"]];
+  var lineBarChartData = null;
+
+  if (typeof rs_config !== "undefined") {
+    var cfg_sections = _.values(rs_config);
+    for (var i in cfg_sections) {
+      if (cfg_sections[i].direct_render === false) {
+        show_loading(cfg_sections[i].html_id, null);
+        $.ajax({
+          method: 'GET',
+          url: cfg_sections[i].action,
+          htmlID: cfg_sections[i].html_id,
+          data: {
+            cfg: cfg_sections[i],
+            id: code
+          },
+          success: function(){
+            hide_loading(this.htmlID, 'rmh__0');
+          }
+        });
+      }
+    }
+  }
+  $(document).ready(function() {
+    $('.r-chart-type.is_current').trigger('click');
+  })
+
+//]]>
+</script>
+</div>
+<div id="error-modal">
+<img class="error-icon" src="/images/error-icon.png"/>
+<div class="err-title"> 対象のクリップが削除または非公開になりました </div>
+<a class="btn-close" href="#" rel="modal:close"> 閉じる </a>
+</div>
+<div id="clip-error-modal">
+<img class="error-icon" src="/images/error-icon.png"/>
+<div class="err-title"> エラーが発生しました。お手数ですが、時間をおいて再度クリックをお願いします。</div>
+<a class="btn-close" href="#" rel="modal:close"> 閉じる </a>
+</div>
+</div>
+<script>
+//<![CDATA[
+
+  var meta_stock = {
+    price: 6826.0,
+    name: "日立製作所",
+    stock_code: "6501",
+    industry_code: "電気機器",
+    price_change_value: '97.0',
+    yesterday_ratio: '1.442',
+    about_us: "【総合電機首位】技術力に定評。事業入れ替えで構造改革推進。",
+    stock_date_time: "2021-07-13T15:00:00+00:00",
+  }
+  var isLoggedIn = false;
+  var defaultBanner = "/assets/mw_307x154-e92f0e60426c2e474da5bf83d614b2ba55969c1ba675cbc7795ef78d6b47770e.jpg";
+  var hotWords = ["決算発表","bitcoin","日経平均先物","btc","商品先物取引","ゲーム","銅","外食","ETF","現物国内保管型","カプコン","月次動向","米国株式","Nvidia","watch","半導体","為替","日銀","nicon","225"];
+  var salons = [];
+
+//]]>
+</script>
+<script data-turbolinks-track="reload" src="/assets/clips/reply_comment-dfc079672ebaf1cf724c76d3a79c3f7cfb8f6edebde14321df122d19a3f22849.js"></script>
+<script data-turbolinks-track="reload" src="/assets/clips/clip_modal-8c488d5e6d9bf1f74a9f84700b23447035f2e5a414fe650f692c54a025b3614a.js"></script>
+<footer>
+<div class="float-login-suggestion">
+<span class="float-login-suggestion__message">
+          気になる銘柄をクリップ・お気に入りして、自分だけの「投資ログ」を作りましょう。
+      </span>
+<div class="p-header_btns">
+<a class="c-button c-button_signup" href="/signup/guide">無料会員登録</a>
+</div>
+</div>
+<div class="l-section toredabi_banner">
+<div class="l-section_body">
+<a href="https://moneyworld.jp/news/05_00053444_news" target="_blank">
+<img alt="企業情報お知らせサービス" class="lazy-image lazy-opacity" data-src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3hHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--afa612d8cd1577d84bab14b4ace7a33cf1fe49be/%E4%BC%81%E6%A5%AD%E6%83%85%E5%A0%B1%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%94%B9.png" style="opacity: 0"/>
+</a>
+</div>
+<div class="l-section_body">
+<a href="https://moneyworld.jp/news/05_00055757_news" target="_blank">
+<img alt="QUICK Money World使い方" class="lazy-image lazy-opacity" data-src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEJHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e0b43c17a736f4c3488d8cc5605d786c4414b37/%E4%BD%BF%E3%81%84%E6%96%B9%E3%83%90%E3%83%8A%E3%83%BC.png" style="opacity: 0"/>
+</a>
+</div>
+<div class="l-section_body">
+<a href="https://moneyworld.jp/news/05_00044968_news" target="_blank">
+<img alt="QMWスマホアプリ登場" class="lazy-image lazy-opacity" data-src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbk0rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--463145b3bc79613969208d04ffd3d240a4ac8ddd/%E3%82%A2%E3%83%97%E3%83%AA%E8%AA%98%E5%B0%8E_%E5%9B%9B%E8%A7%92%E3%83%90%E3%83%8A%E3%83%BC_20210520_3.png" style="opacity: 0"/>
+</a>
+</div>
+<div class="l-section_body">
+<a href="https://www.k-zone.co.jp/td/?utm_source=money_world&amp;utm_medium=banner&amp;utm_campaign=170_event&amp;utm_content=td_top" target="_blank">
+<img alt="株のデモトレアプリはトレダビ" class="lazy-image lazy-opacity" data-src="/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGNMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--acda418020c3fba523e5c0e8af45a4b745fd6523/toredabi-banner.png" style="opacity: 0"/>
+</a>
+</div>
+</div>
+<div class="p-footer">
+<div class="p-footer_head">
+<a class="p-footer_logo" href="/" title="Money World">
+<img src="/assets/footer-logo-9ec543d331fab6162f6a73510690a7faaeac1a79581b5f9fa284d81a9769e008.png"/>
+</a>
+<div class="p-footer_link">
+<a class="f-button" href="/signup/guide">無料会員登録</a>
+<form action="/auth/auth0?prompt=login" class="f-button" method="post"><input type="submit" value="ログイン"><input name="authenticity_token" type="hidden" value="N+6oi2UCYNctt5FJcxsQEIiLYqH5d9+3+q4fgMQZcMnk3wvpsG3+e+Ugs2ljJYI1PyJrhS/XvAfbtplFSZIREw=="/></input></form>
+<ul class="sns-icons">
+<li>
+<a href="https://www.facebook.com/QUICKMoneyWorld" target="_blank">
+<img src="/assets/facebook-logo-c908db1a885ba74693bb65e16f7576ea4faaa065a1531e26c6b213ec0218be79.png"/>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/QUICK_QMW" target="_blank">
+<img src="/assets/twitter-logo-70d6d45c8a8a6578981a8ff7af79532fd83ac2f71552a4f599b220d53b74e0cc.png"/>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="p-footer_body">
+<div class="p-footer_body_column">
+<p class="p-footer_category"><a href="/">TOP</a></p>
+<a class="p-footer_category" href="/stock">企業株価検索</a>
+<div class="p-footer_category">
+<a href="/stock/ranking?type=attract-stock&amp;market=all&amp;industry=all">株価ランキング</a>
+</div>
+<ul>
+<li><a href="/stock/ranking?type=attract-stock&amp;market=all&amp;industry=all">注目株ランキング</a></li>
+<li><a href="/stock/ranking?type=price-rise&amp;market=all&amp;industry=all">値上がり率ランキング</a></li>
+<li><a href="/stock/ranking?type=price-drop&amp;market=all&amp;industry=all">値下がり率ランキング</a></li>
+<li><a href="/stock/ranking?type=trading-value&amp;market=all&amp;industry=all">売買代金ランキング</a></li>
+<li><a href="/stock/ranking?type=capitalization&amp;market=all&amp;industry=all">時価総額ランキング</a></li>
+</ul>
+</div>
+<div class="p-footer_body_column">
+<p class="p-footer_category"><a href="/market">マーケット情報</a></p>
+<ul>
+<li><a href="/market/101.IND_NIKKEI">日経平均株価</a></li>
+<li><a href="/market/151.INDXJPX">TOPIX</a></li>
+<li><a href="/market/191.IND_NIKKEI">日経ジャスダック平均株価</a></li>
+<li><a href="/market/154.INDXJPX">東証マザーズ指数</a></li>
+<li><a href="/market/@@CCO%2FU">ナスダック総合</a></li>
+<li><a href="/market/XJPY%2F8_D">米ドル/円</a></li>
+<li><a href="/market/BUSG.10Y%2FNYC">米国債10年</a></li>
+<li><a href="/market/SGLD%2FCMX">金先物</a></li>
+<li><a href="/market/btcusd">ビットコイン/ドル</a></li>
+</ul>
+</div>
+<div class="p-footer_body_column">
+<a class="p-footer_category" href="/news">記事・ニュース検索</a>
+<div class="p-footer_category"><a href="/news/ranking">人気記事ランキング</a></div>
+<ul>
+<li><a href="/news/ranking?category=210200">株式マーケット</a></li>
+<li><a href="/news/ranking?category=210300">為替・金利</a></li>
+<li><a href="/news/ranking?category=210400">経済・ビジネス</a></li>
+<li><a href="/news/ranking?category=210501">資産運用・資産形成</a></li>
+</ul>
+<a class="p-footer_category" href="/news/list?category=210602">資産運用研究所</a>
+<a class="p-footer_category" href="/news/list?category=210601">企業価値研究所</a>
+<a class="p-footer_category" href="/news/list?series=210013">QUICK Market Eyes</a>
+<a class="p-footer_category" href="/news/list?series=210006">QUICK月次調査</a>
+</div>
+<div class="p-footer_body_column">
+<a class="p-footer_category" href="/yutai">株主優待</a>
+<ul>
+<li><a href="/yutai/search">株主優待検索</a></li>
+<li><a href="/yutai/list">株主優待一覧</a></li>
+<li><a href="/yutai/haito_ranking">配当利回りランキング</a></li>
+<li><a href="/yutai/yutai_ranking">優待利回りランキング</a></li>
+<li><a href="/yutai/yutai_haito_ranking">優待＆配当利回りランキング</a></li>
+</ul>
+</div>
+<div class="p-footer_body_column">
+<p class="p-footer_category">分析ツール</p>
+<ul>
+<li><a href="/tools/search_by_score">スコア株サーチ</a></li>
+<li><a href="/tools/search_by_consensus">コンセンサス株サーチ</a></li>
+<li><a href="/tools/market_calendar">マーケットカレンダー</a></li>
+<li><a href="/tools/industry_share_map">簡単業種分析</a></li>
+<li><a href="/tools/trend_word">トレンドワード</a></li>
+<li><a href="/tools/corporate_alert">コーポレートアラート</a></li>
+<li><a href="/tools/news_ranking">マーケットニュースランキング</a></li>
+<li><a href="/tools/financial_result_surprise">決算サプライズメーター</a></li>
+<li><a href="/tools/usd_position_statistics">ドル円ポジション</a></li>
+<li><a href="/tools/financial_terms">金融用語集</a></li>
+<li><a href="/tools/disclosure_ai">QUICK AI速報（企業開示速報）</a></li>
+<li><a href="/tools/asia_index_300">日経アジア 300 指数特設ページ</a></li>
+</ul>
+</div>
+<div class="p-footer_body_column">
+<a class="p-footer_category" href="https://corporate.quick.co.jp/index.html">QUICKについて</a>
+<a class="p-footer_category" href="/policy">サイトポリシー</a>
+<a class="p-footer_category" href="/terms">利用規約</a>
+<a class="p-footer_category" href="/guideline">ガイドライン</a>
+<a class="p-footer_category" href="https://corporate.quick.co.jp/contact/qmw-customer/">お問い合わせ</a>
+</div>
+</div>
+<span class="p-copy-right">©︎ 2019 QUICK Corp.</span>
+</div>
+</footer>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+<div class="p-user_btns has-float">
+<a class="p-btn_scroll" id="btn_scroll">
+<img src="/images/pagetop.png"/>
+</a>
+</div>
+</div>
+<div class="modal" id="view-clip-image-modal">
+<img src=""/>
+</div>
+</body>
+</html>
